@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="colorPrimary">@color/ColorPrimary</item>
+    </style>
+
+    <style name="FacebookTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">@color/FBPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/FBPrimaryDark</item>
+        <item name="colorPrimary">@color/FBPrimary</item>
+    </style>
+
+    <style name="TwitterTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">@color/TwitterPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/TwitterPrimaryDark</item>
+        <item name="colorPrimary">@color/TwitterPrimary</item>
+    </style>
+
+    <style name="GPlusTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">@color/GooglePrimaryDark</item>
+        <item name="colorPrimaryDark">@color/GooglePrimaryDark</item>
+        <item name="colorPrimary">@color/GooglePrimary</item>
+    </style>
+
+</resources>

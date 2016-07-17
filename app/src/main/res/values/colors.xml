@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="facebook">#405d9a</color>
+   <color name="gplus">#d84735</color>
+   <color name="twitter">#52a8e9</color>
+   <color name="myWhite">#ffffff</color>
+   <color name="ColorPrimary">#3f51b5</color>
+   <color name="ColorPrimaryDark">#303f9f</color>
+   <color name="FBPrimary">#405d9a</color>
+   <color name="FBPrimaryDark">#303f9f</color>
+   <color name="TwitterPrimary">#52a8e9</color>
+   <color name="TwitterPrimaryDark">#0288d1</color>
+   <color name="GooglePrimary">#d84735</color>
+   <color name="GooglePrimaryDark">#d32f2f</color>
+
+
+</resources>
